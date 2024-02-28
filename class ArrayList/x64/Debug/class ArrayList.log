@@ -1,0 +1,20 @@
+﻿  class ArrayList.cpp
+D:\Проекты\class ArrayList\class ArrayList.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(82,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(103,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(106,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(130,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(133,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(155,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(178,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(215,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(217,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(233,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(235,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(253,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(257,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(292,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(311,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Проекты\class ArrayList\class ArrayList.cpp(340,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  class ArrayList.vcxproj -> D:\Проекты\class ArrayList\x64\Debug\class ArrayList.exe
